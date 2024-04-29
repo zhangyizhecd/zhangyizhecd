@@ -1,11 +1,10 @@
-# About me
+# Yizhe Zhang
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0 0 auto; margin-right: 20px;">
     <img src="https://github.com/zhangyizhecd/zhangyizhecd/blob/main/profile_pic.png" alt="portrait" width="150"/>
   </div>
   <div>
-    <h1>Yizhe Zhang</h1>
     <p><strong>Email：</strong> zhangyizhecd@gmail.com</p>
   </div>
 </div>
