@@ -12,34 +12,32 @@
 
 ---
 
-## 其他信息
+## Education
 
-<!-- 在这里添加你的其他信息 -->
+### Beijing University of Posts and Telecommunication
+- **Location:** Beijing, China
+- **Years:** 2016 - 2020
+- **Degree:** Bachelor of Science in Computer Science
 
+### Universiteit Utrecht
+- **Location:** Utrecht, Netherlands
+- **Years:** 2021 - 2023
+- **Degree:** Master of Science in Computer Science
+- **Specialization:** Game and Media Technology
 
-## 照片
+## Skills
 
-<img src="链接到你的照片" alt="你的照片" width="200"/>
+### Programming Languages
+- **C++**
+- **Java**
+- **Python**
 
-## 教育背景
+## Projects
 
-- **学位：** [你的学位]
-- **毕业院校：** [你的毕业院校]
-- **主修专业：** [你的主修专业]
+### E-commerce Platform
+- **Description:** Developed a comprehensive e-commerce platform to facilitate online purchasing, user management, and inventory control.
+- **Technologies Used:** C++, Java, Python
 
-## 工作经历
-
-- **公司/组织：** [你曾经工作过的公司/组织名称]
-  - **职位：** [你在这家公司/组织的职位]
-  - **工作内容：** [你的工作内容简要描述]
-
-## 技能专长
-
-- **编程语言：** [你擅长的编程语言]
-- **软件工具：** [你熟练使用的软件工具]
-- **语言能力：** [你精通的语言]
-
-## 个人项目
 
 - **项目名称：** [你参与或创建的个人项目名称]
   - **描述：** [项目简要描述]
