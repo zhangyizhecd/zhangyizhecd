@@ -11,6 +11,11 @@
 
 
 ---
+## About me
+Hello, my name is Yizhe Zhang, and I am a recent graduate from Utrecht University, where I majored in Computer Science with a focus on Game and Media Technology. Prior to that, I completed my undergraduate studies in Computer Science at Beijing University of Posts and Telecommunications. I have a strong interest in software development and algorithms. 
+
+I am originally from Sichuan, China and now live in Utrecht, the Netherlands.
+
 
 ## Education
 
