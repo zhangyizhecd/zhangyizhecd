@@ -17,13 +17,14 @@
 ### Beijing University of Posts and Telecommunication
 - **Location:** Beijing, China
 - **Years:** 2016 - 2020
-- **Degree:** Bachelor of Science in Computer Science
+- **Degree:** Bachelor of Engineering in Computer Science
 
 ### Universiteit Utrecht
 - **Location:** Utrecht, Netherlands
 - **Years:** 2021 - 2023
 - **Degree:** Master of Science in Computer Science
-- **Specialization:** Game and Media Technology
+- **Programme:** Game and Media Technology
+- **Thesis:** https://studenttheses.uu.nl/handle/20.500.12932/45272
 
 ## Skills
 
@@ -39,13 +40,9 @@
 - **Technologies Used:** C++, Java, Python
 
 
-- **项目名称：** [你参与或创建的个人项目名称]
-  - **描述：** [项目简要描述]
-  - **技术栈：** [项目所使用的技术栈]
+## Contact
 
-## 联系方式
-
-- **电子邮件：** [你的电子邮件地址]
-- **LinkedIn：** [你的 LinkedIn 链接]
-- **GitHub：** [你的 GitHub 链接]
+- **E-mail：** zhangyizhecd@gmail.com
+- **LinkedIn：** https://www.linkedin.com/in/yizhe-zhang-44b876298/
+- **GitHub：** https://github.com/zhangyizhecd
 
