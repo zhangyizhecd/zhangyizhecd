@@ -2,11 +2,11 @@
 
 <div style="display: flex;">
   <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="链接到你的照片" alt="你的照片" width="150"/>
+    <img src="https://github.com/zhangyizhecd/zhangyizhecd/blob/main/profile_pic.png" alt="portrait" width="150"/>
   </div>
   <div>
-    <h1>[你的姓名]</h1>
-    <p><strong>邮箱：</strong> [你的邮箱地址]</p>
+    <h1>[Yizhe Zhang]</h1>
+    <p><strong>Email：</strong> [zhangyizhecd@gmail.com]</p>
     <!-- 其他信息 -->
   </div>
 </div>
