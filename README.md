@@ -37,6 +37,7 @@ I am originally from Sichuan, China and now live in Utrecht, the Netherlands.
 - **C++**
 - **Java**
 - **Python**
+- **JavaScript
 
 ## Projects
 
